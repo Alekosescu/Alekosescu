@@ -40,7 +40,7 @@ The general idea is to create an application in which different Breaking Bad cha
 <img align="left" src="https://user-images.githubusercontent.com/43653464/164103886-0fef44c6-1867-472f-a6d9-d0a3e197df1a.jpg" alt="Principal" width="30%"/>    
 <img align="center" src="https://user-images.githubusercontent.com/43653464/164104331-88dcfa97-613a-41ce-9728-476e11cc53a3.jpg" alt="Home" width="30%"/>               <img align="right" src="https://user-images.githubusercontent.com/43653464/164104607-ddbca790-caa1-4c62-8866-78d854b0519d.jpg" alt="Form" width="30%"/>
   </div>
-
+<br/>
 <p align="center">
 https://app-deploy1.vercel.app/home
 </p>
