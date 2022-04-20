@@ -51,6 +51,6 @@ Link to the Project
 <hr/>
   Want to know more about me? Contact me   
   <br/>
-✔ LinkedIn: <a href="http://www.linkedin.com/in/alejandrogescudero">www.linkedin.com/in/alejandrogescudero</a> <br/>
-✔ WP: <a href="https://api.whatsapp.com/send?phone=543786400746&text=Thanks%20for%20reaching%20out!" target="_blank">+54 3786 400 746</a> (Cell Phone) <br/>
-✔ E-mail: alekosescu@gmail.com <br/>
+▶ LinkedIn: <a href="http://www.linkedin.com/in/alejandrogescudero">www.linkedin.com/in/alejandrogescudero</a> <br/>
+▶ WP: <a href="https://api.whatsapp.com/send?phone=543786400746&text=Thanks%20for%20reaching%20out!" target="_blank">+54 3786 400 746</a> (Cell Phone) <br/>
+▶ E-mail: alekosescu@gmail.com <br/>
