@@ -43,7 +43,14 @@ The general idea is to create an application in which different Breaking Bad cha
 <br/>
 
 <div align="center">
-<a href="https://app-deploy1.vercel.app/home">
+<style type="text/css">
+    .btn {
+        background-color:lightgreen;
+        cursor:pointer;
+        border-radius: 8px
+    }
+</style>
+<button class="btn" href="https://app-deploy1.vercel.app/home">
 Link to the Project
 </a>
 </div>   
