@@ -52,7 +52,7 @@ The general idea is to create an application in which different Breaking Bad cha
 </style>
 <button class="btn" href="https://app-deploy1.vercel.app/home">
 Link to the Project
-</a>
+</button>
 </div>   
 
 <hr/>
